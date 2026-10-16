@@ -225,7 +225,7 @@ All eleven notebook figures are in [`docs/figures/`](docs/figures/).
 
 1. **Clone and install**
    ```bash
-   git clone https://github.com/<your-username>/retail-demand-forecasting.git
+   git clone https://github.com/PritheshBijlani/retail-demand-forecasting.git
    cd retail-demand-forecasting
    pip install -r requirements.txt
    ```
