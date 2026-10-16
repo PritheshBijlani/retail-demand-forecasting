@@ -1,0 +1,7 @@
+{
+  "lead_time_days": 7,
+  "review_period_days": 7,
+  "service_level": 0.95,
+  "unit_holding_cost_per_day": 0.05,
+  "unit_stockout_cost": 5.0
+}
