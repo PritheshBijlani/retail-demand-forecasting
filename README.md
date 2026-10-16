@@ -10,7 +10,9 @@ End-to-end demand forecasting for 500 store-item series (10 stores × 50 items),
 
 ![Streamlit app: forecast, safety stock and recommended order for one store-item](docs/figures/app_default.png)
 
-The Streamlit app runs locally in one command (see [How to run](#7-how-to-run)); it needs only the small files in `app/artifacts/`, not the raw data.
+**Live demo:** (https://retail-demand-forecasting-5nqexpdxjxrnxsb4dedswy.streamlit.app/)
+
+The Streamlit app also runs locally in one command (see [How to run](#7-how-to-run)); it needs only the small files in `app/artifacts/`, not the raw data.
 
 ## Contents
 
